@@ -42,4 +42,3 @@ if __name__ == '__main__':
       
     else:
       mysql_db_string_replace(sys.argv[1], sys.argv[2], sys.argv[3], int(sys.argv[4]), sys.argv[5], sys.argv[6], sys.argv[7])
-      #mysql_db_string_replace('10.10.250.230', 'root', 'hongt@8a51', 3306, 'mytest', "zabbix", "htrd")
